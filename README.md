@@ -1,4 +1,5 @@
 # EX-3-SubQueries-Views-and-Joins
+## Date:
 ## Aim:
 To view implement SubQueries, Views and Joins.
 
@@ -196,4 +197,4 @@ select s.name,c.cust_name,c.city,s.commission from salesman1 s right join custom
 
 
 ## Result:
- a database is created and implementation of views,subqueries and joins is executed successfully.
+A database is created and implementation of views,subqueries and joins is executed successfully.
